@@ -1,0 +1,23 @@
+[
+  {
+    "recipe_name": "Mi Goreng",
+    "ingredients": [
+      "Water",
+      "Mi Goreng Noodles"
+    ],
+    "method": "Prepare boiling water and cook noodles in boiling water for 3 minutes",
+    "vegetarian": false
+  },
+  {
+    "recipe_name": "Sausage Sizzle",
+    "ingredients": [
+      "Sausages",
+      "White Bread",
+      "onions",
+      "butter",
+      "sauce"
+    ],
+    "method": "Cook Sausages & onion on BBQ, turning all sides evenly until cooked, while cooking butter bread, transfer sausage and onion & serve with sauce",
+    "vegetarian": false
+  }
+]
