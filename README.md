@@ -24,9 +24,9 @@ The exercise requires you to develop a `REST api in .NET 5`, which can be consum
 - While this API does not require Authentication, there is no harm in adding it ( `JWT` is preferred )
 - You're welcome to use a SQLlite or TextFile.
 
-Build a simple recipe book, that allows a user to submit a new recipe with the following fields, 
+Build a simple recipe book, that allows a user to submit a new recipe  with the following fields, 
 
-    - Recipie Name 
+    - Recipe  Name 
     - Vegitarian: Yes or No. 
     - Ingredients 
     - How to cook it. ( Text Field is fine ) 
@@ -44,9 +44,9 @@ The Rest API should support the following Requests
 
 Build a front end application which has support for the following 
 
-    - Adding a new recipie ( With the above paramaters ) 
-    - Retrieving a list of recipies 
-    - Viewing a Particular Recipie 
+    - Adding a new recipe ( With the above paramaters ) 
+    - Retrieving a list of recipes 
+    - Viewing a Particular recipes 
 
 
 The design is up to you, we're not expecting it to be a masterpiece and don't expect you to spend hours in this. 
