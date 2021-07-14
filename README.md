@@ -14,7 +14,7 @@ The exercise requires you to develop a `REST api in .NET 5`, which can be consum
 
 ### Setup
 
-1. You must first fork this repo. If you do not have a GitHub account, you will need to first sign up in order to fork it.
+1. Create a public rep on your github, if you don't have a github account. Please sign up for one. 
 2. Once completed to the best of your abilities, please commit your work and send through the link to the github project. 
 
 
